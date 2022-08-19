@@ -1,0 +1,6 @@
+res/*.pkl
+res/val/*.tfrec
+res/train/*.tfrec
+out/*.*
+out/*/
+*.pyc
